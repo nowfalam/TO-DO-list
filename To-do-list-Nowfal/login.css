@@ -1,0 +1,25 @@
+.container{
+    margin-top: 100px;
+
+
+}
+form{
+    padding: 40px 20px;
+    border: 4px solid black;
+    background-color: rgba(44, 76, 219, 0.7);
+    border-radius: 10px;
+    background-image: ;
+
+  
+}
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+body{
+    background-image: url("todo1.jpg");
+    background-size: 100%;
+   
+   
+}
